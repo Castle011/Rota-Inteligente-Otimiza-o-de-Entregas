@@ -2,7 +2,12 @@
 
 Este repositório contém a solução para o estudo de caso da disciplina *Artificial Intelligence Fundamentals*, focado na otimização de rotas de entrega para a empresa fictícia "Sabor Express" utilizando algoritmos de Inteligência Artificial.
 
----
+##Instruções para Rodar o Projeto >>>
+
+#cmd
+## npm install
+## cd C:\Users\diretorio\do\projeto\rota-inteligente_-otimização-de-entregas
+## npm run dev
 
 ## 📝 Descrição do Projeto
 
