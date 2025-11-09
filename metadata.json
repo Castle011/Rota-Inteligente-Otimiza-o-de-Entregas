@@ -1,0 +1,5 @@
+{
+  "name": "Rota Inteligente: Otimização de Entregas",
+  "description": "Uma aplicação web para visualizar a otimização de rotas de entrega usando algoritmos de clustering K-Means e heurística do vizinho mais próximo para resolver o problema do caixeiro viajante para a empresa fictícia 'Sabor Express'.",
+  "requestFramePermissions": []
+}
