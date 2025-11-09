@@ -6,7 +6,7 @@ Instruções para Rodar o Projeto >>>
 
 -cmd-
 ## npm install
-## cd C:\Users\diretorio\do\projeto\rota-inteligente_-otimização-de-entregas
+## cd C:\seu\diretorio\do\projeto\rota-inteligente_-otimização-de-entregas
 ## npm run dev
 
 ## 📝 Descrição do Projeto
